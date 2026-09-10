@@ -1,0 +1,12 @@
+AI Agent 精读笔记
+Copyright 2026 KLucen
+
+本仓库（https://github.com/KLucen/ai-agent-book-note）是
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著，
+https://github.com/bojieli/ai-agent-book）的个人精读笔记。
+
+本仓库包含该书的原文引用（每处均标注章与小节出处）与插图副本
+（见 images/ 目录），原书依 Apache License 2.0 授权发布，其版权归原作者所有。
+
+本仓库的笔记内容（各章节笔记、精读规范、阅读地图、术语表、QuickNote、DeepReadNote）
+同样采用 Apache License 2.0 授权。
