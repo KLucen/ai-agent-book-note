@@ -6,6 +6,8 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
+> 📝 **相关文章**：[用 Agent 陪读《深入理解 AI Agent》：笔记仓库开源了](https://klucen.cn/posts/640296d4.html) —— 这份笔记的由来、怎么用，以及我给 AI 定的几条规矩。
+
 ---
 
 ## 一、这是什么
