@@ -1,10 +1,10 @@
----
+﻿---
 书名: 深入理解 AI Agent：设计原理与工程实践
 章节: 5
 章标题: Coding Agent 与通用 Agent
 分册: 实验解读
 状态: 已录入初稿（待动手复现补充）
-阅读日期: 2026-09-15
+阅读日期: 2026-09-21
 tags:
   - AI-Agent
   - 精读笔记
@@ -366,4 +366,4 @@ tags:
 
 ---
 
-*精读日期：2026-09-15 · 原文：`D:\ObsidianRepository\book\chapter5.md`。配套代码见 GitHub 仓库 `chapter5/`。内容理解见 [[内容精读/第5章 Coding Agent 与通用 Agent]]，思考题见 [[思考题引导/第5章 Coding Agent 与通用 Agent]]。*
+*精读日期：2026-09-21 · 原文：`D:\ObsidianRepository\book\chapter5.md`。配套代码见 GitHub 仓库 `chapter5/`。内容理解见 [[内容精读/第5章 Coding Agent 与通用 Agent]]，思考题见 [[思考题引导/第5章 Coding Agent 与通用 Agent]]。*
