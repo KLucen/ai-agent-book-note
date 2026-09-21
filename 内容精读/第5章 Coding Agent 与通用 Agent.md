@@ -4,7 +4,7 @@
 章标题: Coding Agent 与通用 Agent
 分册: 内容精读
 状态: 已精读
-阅读日期: 2026-09-15
+阅读日期: 2026-09-21
 实验数: 16
 思考题数: 9
 关联章节: "[[内容精读/第6章 交互：观察与动作空间的扩展]]"
@@ -487,4 +487,4 @@ tags:
 
 ---
 
-*精读日期：2026-09-15 · 原文：`D:\ObsidianRepository\book\chapter5.md`（库外只读）。实验解读见 [[实验解读/第5章 Coding Agent 与通用 Agent]]，思考题见 [[思考题引导/第5章 Coding Agent 与通用 Agent]]，规范见 [[01-精读笔记规范]]。*
+*精读日期：2026-09-21 · 原文：`D:\ObsidianRepository\book\chapter5.md`（库外只读）。实验解读见 [[实验解读/第5章 Coding Agent 与通用 Agent]]，思考题见 [[思考题引导/第5章 Coding Agent 与通用 Agent]]，规范见 [[01-精读笔记规范]]。*
